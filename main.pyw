@@ -7,8 +7,8 @@
 ░░░╚═╝░░░░╚═════╝░  ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░
 =============================================
             ｂｙ ｂ１ｔ０ｎｅ
-        tg: https://t.me/w0rld_adm1n
     github: https://github.com/b1t0nese
+The author created the program for educational purposes only and is not responsible for its operation.
 '''
 import telebot
 from telebot import types
